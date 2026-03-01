@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
