@@ -70,8 +70,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 <!---LeetCode Topics End-->
