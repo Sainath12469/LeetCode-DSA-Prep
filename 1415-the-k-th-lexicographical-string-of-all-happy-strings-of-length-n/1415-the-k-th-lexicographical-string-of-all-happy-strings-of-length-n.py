@@ -12,7 +12,7 @@ class Solution:
             if length == 0 or s[-1] != c:
                 self.solve(length + 1, k, n, chars, s + c)
                 if k[0] == 0:
-                    return  # Stop recursion early
+                    return 
 
     def getHappyString(self, n: int, k: int) -> str:
         self.ans = ""
