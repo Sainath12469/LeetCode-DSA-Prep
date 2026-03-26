@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1980-find-unique-binary-string) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3548-equal-sum-grid-partition-ii) |
 ## String
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1980-find-unique-binary-string) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3643-flip-square-submatrix-vertically) |
 ## Matrix
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -142,4 +146,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3546-equal-sum-grid-partition-i) |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3548-equal-sum-grid-partition-ii) |
 <!---LeetCode Topics End-->
