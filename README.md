@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2573-find-the-string-with-lcp) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2573-find-the-string-with-lcp) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Array
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0796-rotate-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Backtracking
 |  |
 | ------- |
