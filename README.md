@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0796-rotate-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
