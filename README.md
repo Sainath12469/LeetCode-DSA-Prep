@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1980-find-unique-binary-string) |
+| [3488-closest-equal-element-queries](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## String
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3488-closest-equal-element-queries](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3643-flip-square-submatrix-vertically) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [3488-closest-equal-element-queries](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
 |  |
