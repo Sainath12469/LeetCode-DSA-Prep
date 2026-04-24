@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2833-furthest-point-from-origin) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Rolling Hash
 |  |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
