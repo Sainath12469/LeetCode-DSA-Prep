@@ -1,0 +1,36 @@
+from collections import deque
+
+class Solution:
+    def containsCycle(self, grid):
+        n = len(grid)
+        m = len(grid[0])
+        visited = [[False] * m for _ in range(n)]
+        def bfs(i, j):
+            queue = deque()
+            queue.append((i, j, -1, -1))
+            visited[i][j] = True
+            directions = [(-1,0), (1,0), (0,-1), (0,1)]
+            while queue:
+                x, y, px, py = queue.popleft()
+                for dx, dy in directions:
+                    nx, ny = x + dx, y + dy
+                    if nx < 0 or ny < 0 or nx >= n or ny >= m:
+                        continue
+                    if grid[nx][ny] != grid[x][y]:
+                        continue
+                    if nx == px and ny == py:
+                        continue
+                    if visited[nx][ny]:
+                        return True
+                    visited[nx][ny] = True
+                    queue.append((nx, ny, x, y))
+
+            return False
+
+        for i in range(n):
+            for j in range(m):
+                if not visited[i][j]:
+                    if bfs(i, j):
+                        return True
+
+        return False
