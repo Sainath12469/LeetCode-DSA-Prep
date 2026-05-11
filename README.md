@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2463-minimum-total-distance-traveled](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2463-minimum-total-distance-traveled) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2069-walking-robot-simulation-ii) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3653-xor-after-range-multiplication-queries-i) |
