@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2540-minimum-common-value) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3488-closest-equal-element-queries](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2833-furthest-point-from-origin) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Rolling Hash
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3488-closest-equal-element-queries](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3546-equal-sum-grid-partition-i) |
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
