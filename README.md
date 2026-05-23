@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1861-rotating-the-box) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
