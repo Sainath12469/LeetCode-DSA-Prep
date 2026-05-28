@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2540-minimum-common-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Rolling Hash
 |  |
