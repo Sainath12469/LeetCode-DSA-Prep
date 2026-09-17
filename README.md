@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0874-walking-robot-simulation) |
 | [1345-jump-game-iv](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1980-find-unique-binary-string) |
 | [2540-minimum-common-value](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2540-minimum-common-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0874-walking-robot-simulation) |
 | [1340-jump-game-v](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1345-jump-game-iv) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1340-jump-game-v) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2573-find-the-string-with-lcp) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3488-closest-equal-element-queries) |
@@ -284,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3093-longest-common-suffix-queries) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
