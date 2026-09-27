@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0796-rotate-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2751-robot-collisions](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
