@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1980-find-unique-binary-string) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2540-minimum-common-value](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2540-minimum-common-value) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1914-cyclically-rotating-a-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1914-cyclically-rotating-a-grid) |
 | [1980-find-unique-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1980-find-unique-binary-string) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2540-minimum-common-value](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 ## Bracket Sequences
 |  |
 | ------- |
