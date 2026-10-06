@@ -16,7 +16,6 @@ class Solution {
                 depth=0;
             }
         }
-        if(depth>0)
         res+=depth;
         return res;
     }
