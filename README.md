@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0301-remove-invalid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0856-score-of-parentheses) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0301-remove-invalid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1980-find-unique-binary-string) |
 ## Dynamic Programming
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0301-remove-invalid-parentheses) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1559-detect-cycles-in-2d-grid) |
