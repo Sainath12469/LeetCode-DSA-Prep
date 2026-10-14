@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0301-remove-invalid-parentheses) |
+| [0647-palindromic-substrings](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0856-score-of-parentheses) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0032-longest-valid-parentheses) |
 | [0396-rotate-function](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0396-rotate-function) |
+| [0647-palindromic-substrings](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0647-palindromic-substrings) |
 | [0788-rotated-digits](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1340-jump-game-v) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0647-palindromic-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2540-minimum-common-value) |
