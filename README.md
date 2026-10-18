@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0396-rotate-function) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0788-rotated-digits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1622-fancy-sequence](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1340-jump-game-v) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2463-minimum-total-distance-traveled) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -310,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Depth-First Search
@@ -360,4 +365,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
