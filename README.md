@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2463-minimum-total-distance-traveled) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2540-minimum-common-value) |
 | [3488-closest-equal-element-queries](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3488-closest-equal-element-queries) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2751-robot-collisions) |
