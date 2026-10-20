@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2751-robot-collisions) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3886-sum-of-sortable-integers) |
 ## Stack
 |  |
 | ------- |
