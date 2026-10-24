@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2409-count-days-spent-together](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1980-find-unique-binary-string](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1980-find-unique-binary-string) |
+| [2409-count-days-spent-together](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2409-count-days-spent-together) |
 | [2573-find-the-string-with-lcp](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2833-furthest-point-from-origin) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
