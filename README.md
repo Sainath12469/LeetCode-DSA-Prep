@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0396-rotate-function](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0788-rotated-digits](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0788-rotated-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0874-walking-robot-simulation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0874-walking-robot-simulation) |
 | [1340-jump-game-v](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1345-jump-game-iv) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1340-jump-game-v](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1340-jump-game-v) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1727-largest-submatrix-with-rearrangements) |
