@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2409-count-days-spent-together) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3886-sum-of-sortable-integers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3886-sum-of-sortable-integers) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3093-longest-common-suffix-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3488-closest-equal-element-queries](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3488-closest-equal-element-queries) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3886-sum-of-sortable-integers) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Trie
 |  |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2009-minimum-number-of-operations-to-make-array-continuous](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/2009-minimum-number-of-operations-to-make-array-continuous) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Sainath12469/LeetCode-DSA-Prep/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bracket Sequences
 |  |
 | ------- |
